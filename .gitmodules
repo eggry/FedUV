@@ -1,0 +1,3 @@
+[submodule "FedLab"]
+	path = FedLab
+	url = https://github.com/SMILELab-FL/FedLab.git
